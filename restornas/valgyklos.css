@@ -1,0 +1,23 @@
+.navbar {
+    background-image: url('./nav.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer {
+    background-image: url('./nav.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-item {
+    height: 50vh;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+.accordion-footer {
+    padding: 10px;
+}
